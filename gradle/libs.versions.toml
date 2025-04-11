@@ -3,6 +3,7 @@ kotlin = "1.7.21"
 buildconfig = "3.0.3"
 
 [libraries]
+junit-jupiter = "org.junit.jupiter:junit-jupiter:5.10.0"
 
 [plugins]
 buildconfig = { id = "com.github.gmazzo.buildconfig", version.ref = "buildconfig" }
